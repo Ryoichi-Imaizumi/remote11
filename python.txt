@@ -6,4 +6,4 @@ import matplotlib.pyplot as plt
 import japanize_matplotlib
 
 
-print("hello wordl!")
+print("hello python wordl!")
